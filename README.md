@@ -18,6 +18,6 @@ A ReaScript made to preview custom Encore Charts
 - Pro Drums Track
 - Toms, HOPOs, colored notes
 
-## INI Format added by [It's Only Connor](https://github.com/wowitsonlyconnor)
+## INI Format added by [It's Only Connor](https://github.com/wowitsonlyconnor):
 - Allows charting for other games
 - Adds Key track support
